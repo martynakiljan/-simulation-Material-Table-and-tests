@@ -8,7 +8,7 @@
 
 ----
 
-*My task here was to imitate [Material Table] (https://github.com/mbrn/material-table)  with sorting by table,  searching for a word, and testing with the React testing library*
+*My task here was to imitate [Material Table](https://github.com/mbrn/material-table)  with sorting by table,  searching for a word, and testing with the React testing library*
 
 What is Material Table ?
 A simple and powerful Datatable for React based on Material-UI Table with some additional features  [MORE, CLICK HERE](https://github.com/mbrn/material-table)
@@ -20,11 +20,17 @@ A simple and powerful Datatable for React based on Material-UI Table with some a
 <h3>What did I use in the project? What have I learned?</h3>
 
 :pushpin: I tried to do reproduce manually [Material Table](https://material-ui.com/components/tables/)
+
 :pushpin: presentation of data with pagination
+
 :pushpin: the ability to filter the content [example Material Table](the ability to filter the content)
+
 :pushpin: possibility to sort data by column [example from material-table](https://material-table.com/#/docs/features/sorting)
+
 :pushpin: what is [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
+
 :pushpin: of course, I also practiced: react: hooks
+
 :pushpin: methods: sorting, filtering in JS
 
 -----
