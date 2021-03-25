@@ -25,7 +25,7 @@ A simple and powerful Datatable for React based on Material-UI Table with some a
 
 :pushpin: presentation of data with pagination
 
-:pushpin: the ability to filter the content [example Material Table](the ability to filter the content)
+:pushpin: the ability to filter the content [example from material-table](the ability to filter the content)
 
 :pushpin: possibility to sort data by column [example from material-table](https://material-table.com/#/docs/features/sorting)
 
