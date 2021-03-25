@@ -2,14 +2,16 @@
 
 <h1> Simulation: Material Table with testing  </h1>
 
-*<h2>My first commercial project for a client :blue_book:</h2>*
 
 >from the series: React: testing :muscle:
 
 
 ----
 
-*My task here was to imitate [Material Table] (https://github.com/mbrn/material-table)  with sorting by table, after searching for a word, and testing with the React testing library*
+*My task here was to imitate [Material Table] (https://github.com/mbrn/material-table)  with sorting by table,  searching for a word, and testing with the React testing library*
+
+What is Material Table ?
+A simple and powerful Datatable for React based on Material-UI Table with some additional features  [MORE, CLICK HERE](https://github.com/mbrn/material-table)
 
 
 
@@ -29,9 +31,11 @@
 <h3>How to open a file? :eyes: </h3>
 
 * On the right side you will find the "clone or download" button - click it.
-* An item should appear with the "Download ZIP" option - click again.
+* An item should appear with the "Download ZIP" option - click again.)
 * Now you just need to unpack the downloaded file and open it in your favorite editor.
-* and then "go live" is enough
+* you must enter the appropriate folder (command "cd" + file name)
+* you must to install all packages via npm install
+* then you can start npm start
 * to enable the tests it is enough: npm test
 ----
 
