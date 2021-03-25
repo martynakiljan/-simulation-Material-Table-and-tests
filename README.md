@@ -10,8 +10,10 @@
 
 *My task here was to imitate [Material Table](https://github.com/mbrn/material-table)  with sorting by table,  searching for a word, and testing with the React testing library*
 
+
 What is Material Table ?
-A simple and powerful Datatable for React based on Material-UI Table with some additional features  [MORE, CLICK HERE](https://github.com/mbrn/material-table)
+A simple and powerful Datatable for React based on Material-UI Table with some additional features 
+[MORE, CLICK HERE](https://github.com/mbrn/material-table)
 
 
 
