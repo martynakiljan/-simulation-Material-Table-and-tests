@@ -1,6 +1,7 @@
 
 
 <h1> Simulation: Material Table with testing  </h1>
+
 *<h2>My first commercial project for a client :blue_book:</h2>*
 
 >from the series: React: testing :muscle:
@@ -8,7 +9,7 @@
 
 ----
 
-*My task here was to imitate (Material Table) [https://github.com/mbrn/material-table]  with sorting by table, after searching for a word, and testing with the React testing library*
+*My task here was to imitate [Material Table] (https://github.com/mbrn/material-table)  with sorting by table, after searching for a word, and testing with the React testing library*
 
 
 
@@ -16,11 +17,11 @@
 
 <h3>What did I use in the project? What have I learned?</h3>
 
-:pushpin: I tried to do reproduce manually (Material Table)[https://material-ui.com/components/tables/]
+:pushpin: I tried to do reproduce manually [Material Table](https://material-ui.com/components/tables/)
 :pushpin: presentation of data with pagination
-:pushpin: the ability to filter the content (example Material Table)[the ability to filter the content]
-:pushpin: possibility to sort data by column (example from material-table)[https://material-table.com/#/docs/features/sorting]
-:pushpin: what is (React Testing Library)[https://testing-library.com/docs/react-testing-library/intro/]
+:pushpin: the ability to filter the content [example Material Table](the ability to filter the content)
+:pushpin: possibility to sort data by column [example from material-table](https://material-table.com/#/docs/features/sorting)
+:pushpin: what is [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 :pushpin: of course, I also practiced: react: hooks
 :pushpin: methods: sorting, filtering in JS
 
